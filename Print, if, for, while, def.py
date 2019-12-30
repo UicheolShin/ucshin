@@ -31,7 +31,7 @@ Traceback (most recent call last):
   File "<pyshell#15>", line 1, in <module>
     add(3,4)
 NameError: name 'add' is not defined
->>> 
+>>> 										//잘못하면 내 과오를 지울 수 없는 치명적인 벌이 기다린다.
 ================================ RESTART: Shell ================================
 >>> def add(a,b):
 	return a+b
